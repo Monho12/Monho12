@@ -1,3 +1,7 @@
+
+<div align="center">
+
+```text
        ┌──────────────────────┐
        │  YOU ARE NOT ALONE   │
        └──────────────────────┘
@@ -21,3 +25,6 @@
              WAKE UP?
 
              WAKE UP?
+```
+
+</div>
