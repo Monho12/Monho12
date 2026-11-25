@@ -4,7 +4,7 @@
 
 I'm Mike. I write code, break reality occasionally, and pretend compiler errors are a form of communication from another dimension.
 
-Somewhere between a cup of coffee and a questionable architectural decision, I build stuff.
+Somewhere between a questionable idea and a suspiciously long debugging session, I build stuff.
 
 ---
 
@@ -13,9 +13,9 @@ Somewhere between a cup of coffee and a questionable architectural decision, I b
 - 🖥️ Teaching machines to think. Machines are not impressed.
 - 🧪 Experimenting with code until the code starts experimenting with me.
 - 🌌 Exploring the strange intersection between logic, creativity, and sleep deprivation.
-- 🛠️ Building things. Breaking things. Rebuilding things with slightly more confidence.
+- 🛠️ Building things. Breaking things.
 
-### 🧰 Weapons of mass construction
+### 🧰 Things I use to summon problems
 
 `Python` · `JavaScript` · `TypeScript` · `React` · `Machine Learning` · `Git`
 
@@ -24,18 +24,18 @@ Somewhere between a cup of coffee and a questionable architectural decision, I b
 ### 📡 Transmission from the void
 
 ```text
-STATUS: Alive
+STATUS: Somehow operational
 AGE: 21
 OCCUPATION: Making computers do weird things
-BRAIN: 37% logic, 63% unexplained phenomena
-COFFEE: A dependency, not a beverage
-BUGS: Feature candidates
+BRAIN: Unknown architecture
+ENERGY SOURCE: Unidentified
+REALITY: Not under warranty
 ```
 
 ---
 
-> "It works on my machine."
+> "Today, we escape"
 >
-> — Ancient developer prophecy
+> — Radiohead
 
 <sub>If you're reading this, the simulation rendered my profile correctly. That's suspicious.</sub>
