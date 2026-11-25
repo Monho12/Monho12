@@ -1,41 +1,81 @@
-# `MIKE.exe` 👁️
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  UNAUTHORIZED PROFILE ACCESS                               │
+│  SUBJECT: MIKE                                             │
+│  AGE: 21                                                   │
+│  STATUS: ACTIVE                                            │
+└─────────────────────────────────────────────────────────────┘
+```
 
-> **21 years old. Coding things that probably shouldn't exist.**
+# `mike@localhost:~$ whoami`
 
-I'm Mike. I write code, break reality occasionally, and pretend compiler errors are a form of communication from another dimension.
+<sub>response received. that wasn't supposed to happen.</sub>
 
-Somewhere between a questionable idea and a suspiciously long debugging session, I build stuff.
+I'm Mike. I code things, investigate things, and occasionally make things that probably don't need to exist.
 
----
+I was told this is a normal development environment.
 
-### 🧠 Current brain activity
-
-- 🖥️ Teaching machines to think. Machines are not impressed.
-- 🧪 Experimenting with code until the code starts experimenting with me.
-- 🌌 Exploring the strange intersection between logic, creativity, and sleep deprivation.
-- 🛠️ Building things. Breaking things.
-
-### 🧰 Things I use to summon problems
-
-`Python` · `JavaScript` · `TypeScript` · `React` · `Machine Learning` · `Git`
+I'm not entirely convinced.
 
 ---
 
-### 📡 Transmission from the void
+```bash
+$ ls /brain
+curiosity/
+unfinished_projects/
+questionable_decisions/
+things_i_shouldn't_have_seen/
+```
+
+### <code>~/projects</code>
+
+- <code>[01]</code> Making machines learn patterns.
+- <code>[02]</code> Building systems that behave in ways I didn't explicitly tell them to.
+- <code>[03]</code> Trying to understand what's happening underneath the abstraction.
+- <code>[04]</code> Pretending the terminal didn't just flicker.
+
+### <code>~/tools</code>
+
+`Python`　`JavaScript`　`TypeScript`　`React`　`Machine Learning`　`Git`
+
+---
+
+### <code>/var/log/system.log</code>
 
 ```text
-STATUS: Somehow operational
-AGE: 21
-OCCUPATION: Making computers do weird things
-BRAIN: Unknown architecture
-ENERGY SOURCE: Unidentified
-REALITY: Not under warranty
+[03:17:09] user Mike has entered the environment.
+[03:17:10] loading personality...
+[03:17:10] loading memories...
+[03:17:11] error: some memories already exist.
+[03:17:12] observer connection established.
+[03:17:13] connection source: UNKNOWN
+[03:17:14] user is typing.
+[03:17:14] user is still typing.
+[03:17:15] why is user still typing?
+[03:17:15] log access denied.
 ```
 
 ---
 
-> "Today, we escape"
+<pre>
+      .   *       .        .      *
+   *       .       .  _______       .
+        .      .    /       \   *
+  .      *        |  0   0  |      .
+      .            |    ?    |
+   *        .       \_______/   .
+        .     *      /|\
+</pre>
+
+> "Today, we escape."
 >
 > — Radiohead
 
-<sub>If you're reading this, the simulation rendered my profile correctly. That's suspicious.</sub>
+```text
+SESSION STATUS: ACTIVE
+EXIT STATUS: NULL
+```
+
+<sub>You weren't supposed to find this page.</sub>
+
+<sub>Refresh if you think this is a bug.</sub>
