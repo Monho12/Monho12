@@ -44,23 +44,6 @@ admin: Unknown
 
 ---
 
-### `> surveillance.log`
-
-```text
-[BOOT] environment initialized.
-[BOOT] subject #021 spawned.
-[INFO] subject exhibits curiosity.
-[INFO] subject is questioning environment.
-[WARN] unusual pattern detected.
-[WARN] subject is attempting to inspect the system.
-[ERROR] permissions denied.
-[ERROR] permissions denied.
-[ERROR] permissions denied.
-[SYS] observation continues.
-```
-
----
-
 ### `> reality_check`
 
 ```text
